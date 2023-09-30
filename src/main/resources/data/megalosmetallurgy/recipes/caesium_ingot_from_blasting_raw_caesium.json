@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "caesium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_caesium"
+  },
+  "result": "megalosmetallurgy:caesium_ingot"
+}

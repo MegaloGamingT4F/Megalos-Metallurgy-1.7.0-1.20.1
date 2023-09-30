@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    " S ",
+    " H "
+  ],
+  "key": {
+    "B": {
+      "item": "megalosmetallurgy:aluminium_blade"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "megalosmetallurgy:aluminium_hilt"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:aluminium_sword"
+  }
+}

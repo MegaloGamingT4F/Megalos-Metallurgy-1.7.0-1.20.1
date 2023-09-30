@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:magnesium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:magnesium_block"
+  }
+}

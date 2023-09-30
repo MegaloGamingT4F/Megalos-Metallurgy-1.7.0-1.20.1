@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_selenium"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_selenium_block"
+  }
+}

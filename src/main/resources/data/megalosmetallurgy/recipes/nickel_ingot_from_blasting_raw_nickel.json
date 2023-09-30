@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "nickel",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_nickel"
+  },
+  "result": "megalosmetallurgy:nickel_ingot"
+}

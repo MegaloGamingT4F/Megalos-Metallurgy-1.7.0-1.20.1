@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:yttrium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:yttrium_nugget"
+  }
+}

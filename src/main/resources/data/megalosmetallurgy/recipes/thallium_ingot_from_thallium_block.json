@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:thallium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:thallium_ingot",
+    "count": 9
+  }
+}

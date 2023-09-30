@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:nickel_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:nickel_nugget"
+  }
+}

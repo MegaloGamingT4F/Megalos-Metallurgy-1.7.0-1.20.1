@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "megalosmetallurgy:deepslate_iridium_ore",
+  "biomes": "#minecraft:is_overworld",
+  "step": "underground_ores"
+}

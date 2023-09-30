@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    " S ",
+    " H "
+  ],
+  "key": {
+    "B": {
+      "item": "megalosmetallurgy:titanium_blade"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "megalosmetallurgy:titanium_hilt"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:titanium_sword"
+  }
+}

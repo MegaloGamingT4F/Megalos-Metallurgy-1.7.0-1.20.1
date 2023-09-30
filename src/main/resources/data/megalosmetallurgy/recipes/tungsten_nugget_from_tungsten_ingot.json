@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tungsten_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tungsten_nugget",
+    "count": 9
+  }
+}

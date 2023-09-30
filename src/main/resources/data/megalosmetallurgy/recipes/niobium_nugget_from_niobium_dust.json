@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:niobium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:niobium_nugget"
+  }
+}

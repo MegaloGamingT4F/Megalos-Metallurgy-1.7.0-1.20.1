@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " S ",
+    " H "
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:silver_shovelhead"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "megalosmetallurgy:silver_hilt"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:silver_shovel"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:hafnium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:hafnium_nugget"
+  }
+}

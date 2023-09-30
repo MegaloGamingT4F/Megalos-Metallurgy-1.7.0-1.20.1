@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:sodium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:sodium_ingot",
+    "count": 9
+  }
+}

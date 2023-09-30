@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:strontium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:strontium_ingot"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    " # ",
+    " H "
+  ],
+  "key": {
+    "S": {
+      "item": "megalosmetallurgy:aluminium_shovelhead"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "megalosmetallurgy:aluminium_hilt"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:aluminium_shovel"
+  }
+}

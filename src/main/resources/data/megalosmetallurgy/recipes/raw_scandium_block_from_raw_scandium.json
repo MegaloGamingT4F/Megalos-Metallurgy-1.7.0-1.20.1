@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_scandium"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_scandium_block"
+  }
+}

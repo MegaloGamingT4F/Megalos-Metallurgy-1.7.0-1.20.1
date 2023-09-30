@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:cinnabar_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:cinnabar_block"
+  }
+}

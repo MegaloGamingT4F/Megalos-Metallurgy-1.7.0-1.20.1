@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:lead_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:lead_ingot"
+  }
+}

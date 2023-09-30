@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:strontium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:strontium_ingot",
+    "count": 9
+  }
+}

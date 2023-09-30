@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:cobalt_block"
+  }
+}

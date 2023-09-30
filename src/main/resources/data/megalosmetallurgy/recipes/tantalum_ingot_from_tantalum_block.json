@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tantalum_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tantalum_ingot",
+    "count": 9
+  }
+}

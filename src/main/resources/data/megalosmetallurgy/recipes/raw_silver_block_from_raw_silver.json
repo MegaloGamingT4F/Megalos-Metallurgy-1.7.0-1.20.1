@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_silver"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_silver_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:manganese_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:manganese_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:potassium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:potassium_ingot",
+    "count": 9
+  }
+}

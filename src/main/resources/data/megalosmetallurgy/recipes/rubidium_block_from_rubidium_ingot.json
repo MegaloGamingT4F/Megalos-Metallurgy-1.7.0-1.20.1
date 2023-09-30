@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:rubidium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:rubidium_block"
+  }
+}

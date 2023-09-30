@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:tin_block"
+  }
+}

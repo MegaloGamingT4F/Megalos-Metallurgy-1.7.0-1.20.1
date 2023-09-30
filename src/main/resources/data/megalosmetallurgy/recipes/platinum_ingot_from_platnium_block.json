@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:platinum_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:platinum_ingot",
+    "count": 9
+  }
+}

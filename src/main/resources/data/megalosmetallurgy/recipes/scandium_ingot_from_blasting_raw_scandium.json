@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "scandium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_scandium"
+  },
+  "result": "megalosmetallurgy:scandium_ingot"
+}

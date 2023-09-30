@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "scandium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_scandium"
+  },
+  "result": "megalosmetallurgy:scandium_ingot"
+}

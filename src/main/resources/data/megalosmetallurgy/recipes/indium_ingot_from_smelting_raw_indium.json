@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "indium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_indium"
+  },
+  "result": "megalosmetallurgy:indium_ingot"
+}

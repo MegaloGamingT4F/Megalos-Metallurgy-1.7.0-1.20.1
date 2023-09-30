@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:zinc_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:zinc_ingot"
+  }
+}

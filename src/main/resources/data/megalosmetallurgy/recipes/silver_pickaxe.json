@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PSP",
+    " S ",
+    " H "
+  ],
+  "key": {
+    "P": {
+      "item": "megalosmetallurgy:silver_pick"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "megalosmetallurgy:silver_hilt"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:silver_pickaxe"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " S ",
+    " H "
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:titanium_shovelhead"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "H": {
+      "item": "megalosmetallurgy:titanium_hilt"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:titanium_shovel"
+  }
+}

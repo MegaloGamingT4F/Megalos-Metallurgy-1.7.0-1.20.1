@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:aluminium_plate"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:aluminium_leggings"
+  }
+}

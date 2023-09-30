@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:tellurium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:tellurium_nugget"
+  }
+}

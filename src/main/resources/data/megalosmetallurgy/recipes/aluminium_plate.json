@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "ppp",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:aluminium_ingot"
+    },
+    "p": {
+      "item": "megalosmetallurgy:armour_padding"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:aluminium_plate"
+  }
+}

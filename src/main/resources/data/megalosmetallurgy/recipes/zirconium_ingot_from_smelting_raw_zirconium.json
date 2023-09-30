@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "zirconium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_zirconium"
+  },
+  "result": "megalosmetallurgy:zirconium_ingot"
+}

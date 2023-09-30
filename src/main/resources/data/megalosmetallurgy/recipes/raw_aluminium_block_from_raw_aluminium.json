@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_aluminium"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_aluminium_block"
+  }
+}

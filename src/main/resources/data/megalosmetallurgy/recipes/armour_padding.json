@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LFL",
+    "FLF",
+    "LFL"
+  ],
+  "key": {
+    "F": {
+      "item": "megalosmetallurgy:fabric_strap"
+    },
+    "L": {
+      "item": "megalosmetallurgy:leather_strap"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:armour_padding"
+  }
+}

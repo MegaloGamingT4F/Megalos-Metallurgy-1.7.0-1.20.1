@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:calcium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:calcium_nugget",
+    "count": 9
+  }
+}

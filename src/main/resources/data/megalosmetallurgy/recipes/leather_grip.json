@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LSL",
+    "LSL",
+    "LSL"
+  ],
+  "key": {
+    "L": {
+      "item": "megalosmetallurgy:leather_strap"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:leather_grip"
+  }
+}

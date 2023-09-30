@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_titanium"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_titanium_block"
+  }
+}

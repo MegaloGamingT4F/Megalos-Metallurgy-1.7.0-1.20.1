@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:barium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:barium_nugget"
+  }
+}

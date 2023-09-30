@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "ruthenium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_ruthenium"
+  },
+  "result": "megalosmetallurgy:ruthenium_ingot"
+}

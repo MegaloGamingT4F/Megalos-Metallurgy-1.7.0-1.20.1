@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:nickel_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:nickel_nugget",
+    "count": 9
+  }
+}

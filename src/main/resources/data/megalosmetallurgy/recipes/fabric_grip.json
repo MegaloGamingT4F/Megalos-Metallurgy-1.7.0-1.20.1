@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FSF",
+    "FSF",
+    "FSF"
+  ],
+  "key": {
+    "F": {
+      "item": "megalosmetallurgy:fabric_strap"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:fabric_grip"
+  }
+}

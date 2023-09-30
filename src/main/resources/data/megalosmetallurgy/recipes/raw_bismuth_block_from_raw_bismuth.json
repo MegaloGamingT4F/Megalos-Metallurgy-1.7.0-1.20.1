@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_bismuth"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_bismuth_block"
+  }
+}

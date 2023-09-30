@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:vanadium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:vanadium_ingot",
+    "count": 9
+  }
+}

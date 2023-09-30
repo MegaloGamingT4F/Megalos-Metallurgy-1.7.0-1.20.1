@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:antimony_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:antimony_nugget"
+  }
+}

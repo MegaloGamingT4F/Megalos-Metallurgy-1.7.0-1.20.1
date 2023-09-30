@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:scandium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:scandium_nugget"
+  }
+}

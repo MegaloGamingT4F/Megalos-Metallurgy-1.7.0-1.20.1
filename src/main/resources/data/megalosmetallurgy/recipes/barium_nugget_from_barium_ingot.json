@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:barium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:barium_nugget",
+    "count": 9
+  }
+}

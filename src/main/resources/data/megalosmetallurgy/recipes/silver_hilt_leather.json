@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " g ",
+    " l ",
+    " p "
+  ],
+  "key": {
+    "g": {
+      "item": "megalosmetallurgy:silver_guard"
+    },
+    "l": {
+      "item": "megalosmetallurgy:leather_grip"
+    },
+    "p": {
+      "item": "megalosmetallurgy:silver_pommel"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:silver_hilt"
+  }
+}

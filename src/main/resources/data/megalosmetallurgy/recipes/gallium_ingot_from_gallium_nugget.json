@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:gallium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:gallium_ingot"
+  }
+}

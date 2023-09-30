@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:selenium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:selenium_dust",
+    "count": 9
+  }
+}

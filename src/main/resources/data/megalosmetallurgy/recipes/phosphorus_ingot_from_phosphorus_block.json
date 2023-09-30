@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:phosphorus_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:phosphorus_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:cobalt_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:cobalt_dust",
+    "count": 9
+  }
+}

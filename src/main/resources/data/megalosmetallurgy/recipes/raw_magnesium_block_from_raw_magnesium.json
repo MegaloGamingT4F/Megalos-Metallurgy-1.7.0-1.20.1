@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:raw_magnesium"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:raw_magnesium_block"
+  }
+}

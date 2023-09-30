@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:chromium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:chromium_nugget"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "magnesium",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_magnesium"
+  },
+  "result": "megalosmetallurgy:magnesium_ingot"
+}
