@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "cobalt",
+  "ingredient": {
+    "item": "megalosmetallurgy:cobalt_ore"
+  },
+  "result": "megalosmetallurgy:cobalt_ingot",
+  "count": 2
+}

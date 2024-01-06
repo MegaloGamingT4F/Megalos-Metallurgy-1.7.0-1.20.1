@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "tantalum",
+  "ingredient": {
+    "item": "megalosmetallurgy:tantalum_ore"
+  },
+  "result": "megalosmetallurgy:tantalum_ingot",
+  "count": 2
+}

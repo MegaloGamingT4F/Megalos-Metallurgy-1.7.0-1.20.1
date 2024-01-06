@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "lithium",
+  "ingredient": {
+    "item": "megalosmetallurgy:lithium_ore"
+  },
+  "result": "megalosmetallurgy:lithium_ingot",
+  "count": 2
+}

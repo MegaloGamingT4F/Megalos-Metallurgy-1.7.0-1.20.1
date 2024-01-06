@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "potassium",
+  "ingredient": {
+    "item": "megalosmetallurgy:potassium_ore"
+  },
+  "result": "megalosmetallurgy:potassium_ingot",
+  "count": 2
+}

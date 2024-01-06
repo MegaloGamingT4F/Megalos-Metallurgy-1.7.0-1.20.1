@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "manganese",
+  "ingredient": {
+    "item": "megalosmetallurgy:manganese_ore"
+  },
+  "result": "megalosmetallurgy:manganese_ingot",
+  "count": 2
+}

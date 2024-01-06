@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "gallium",
+  "ingredient": {
+    "item": "megalosmetallurgy:gallium_ore"
+  },
+  "result": "megalosmetallurgy:gallium_ingot",
+  "count": 2
+}

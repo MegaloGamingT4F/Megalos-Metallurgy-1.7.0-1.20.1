@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "sodium",
+  "ingredient": {
+    "item": "megalosmetallurgy:sodium_ore"
+  },
+  "result": "megalosmetallurgy:sodium_ingot",
+  "count": 2
+}

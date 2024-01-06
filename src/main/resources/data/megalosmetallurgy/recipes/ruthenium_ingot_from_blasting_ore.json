@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "ruthenium",
+  "ingredient": {
+    "item": "megalosmetallurgy:ruthenium_ore"
+  },
+  "result": "megalosmetallurgy:ruthenium_ingot",
+  "count": 2
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "palladium",
+  "ingredient": {
+    "item": "megalosmetallurgy:palladium_ore"
+  },
+  "result": "megalosmetallurgy:palladium_ingot",
+  "count": 2
+}

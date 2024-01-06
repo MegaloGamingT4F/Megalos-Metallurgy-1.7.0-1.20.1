@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "indium",
+  "ingredient": {
+    "item": "megalosmetallurgy:indium_ore"
+  },
+  "result": "megalosmetallurgy:indium_ingot",
+  "count": 2
+}

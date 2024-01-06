@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "technetium",
+  "ingredient": {
+    "item": "megalosmetallurgy:technetium_ore"
+  },
+  "result": "megalosmetallurgy:technetium_ingot",
+  "count": 2
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "aluminium",
+  "ingredient": {
+    "item": "megalosmetallurgy:bismuth_ore"
+  },
+  "result": "megalosmetallurgy:bismuth_ingot",
+  "count": 2
+}

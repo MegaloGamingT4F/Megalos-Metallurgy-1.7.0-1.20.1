@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "strontium",
+  "ingredient": {
+    "item": "megalosmetallurgy:strontium_ore"
+  },
+  "result": "megalosmetallurgy:strontium_ingot",
+  "count": 2
+}

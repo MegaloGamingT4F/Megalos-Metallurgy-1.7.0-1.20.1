@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "rhenium",
+  "ingredient": {
+    "item": "megalosmetallurgy:rhenium_ore"
+  },
+  "result": "megalosmetallurgy:rhenium_ingot",
+  "count": 2
+}
